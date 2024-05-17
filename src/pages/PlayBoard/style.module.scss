@@ -1,0 +1,19 @@
+@import "../../vars";
+
+.hiro {
+  // padding-top: 10%;
+  height: inherit;
+  width: 100%;
+  @extend .flexCenter;
+  justify-content: space-evenly;
+}
+
+.buttensBar {
+  @extend .flexCenter;
+  gap: 10px;
+  width: 100%;
+  height: 17%;
+}
+.buttensBar > button {
+  height: 55%;
+}

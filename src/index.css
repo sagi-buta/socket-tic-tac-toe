@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&family=Luckiest+Guy&display=swap);
+
+/* // Luckiest Guy: CSS class
+
+// .luckiest-guy-regular {
+//   font-family: "Luckiest Guy", cursive;
+//   font-weight: 400;
+//   font-style: normal;
+// } */
+
+* {
+  font-family: "Luckiest Guy", cursive;
+  /* font-style: italic; */
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background-color: #3d7ad6;
+}
+
+#root {
+  height: 100%;
+}

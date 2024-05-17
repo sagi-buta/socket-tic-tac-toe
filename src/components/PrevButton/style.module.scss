@@ -1,0 +1,12 @@
+@import "../../vars";
+.hiro {
+  @extend .flexCenter;
+  height: 8%;
+  width: 100%;
+  padding-left: 3%;
+  align-items: start;
+}
+.prev {
+  height: 100%;
+  width: 15%;
+}
